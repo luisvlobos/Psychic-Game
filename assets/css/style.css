@@ -1,0 +1,42 @@
+body {
+    background: url(../images/psychicBG.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 44px;
+    text-align: center;
+    color: aliceblue;
+    text-shadow:
+		-10px -10px 0 #000,
+		10px -10px 0 #000,
+		-10px 10px 0 #000,
+		10px 10px 0 #000;
+}
+
+p{
+    font-family: Verdana, Tahoma, sans-serif;
+    color: aliceblue;
+}
+
+span{
+    font-family: Verdana, Tahoma, sans-serif;
+    color: rgb(27, 231, 0);
+}
+
+p, span{
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+div {
+    margin-top: 300px;
+    text-align: center;
+}
